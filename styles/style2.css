@@ -12,6 +12,9 @@ body {
 body {
     font-family: Arial, sans-serif;
     background-color: rgb(80, 78, 78);
+    background-image: url(/img/1-main.png);
+    background-position: center;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
